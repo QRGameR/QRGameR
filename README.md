@@ -1,18 +1,26 @@
-<div align="center" style="background: linear-gradient(135deg, #0a001f, #1f0033); padding: 60px 20px; border-radius: 25px; position: relative; overflow: hidden; border: 1px solid rgba(0,255,255,0.2);">
-
-<h1 style="font-size: 5rem; font-weight: 900; margin: 15px 0; background: linear-gradient(90deg, #ff00cc, #00ffea, #ffff00, #ff00cc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: rgbShift 3s linear infinite; text-shadow: 0 0 40px #00ffff, 0 0 70px #ff00ff, 0 0 100px #ffff00;">QRGameR</h1>
-
-<p style="font-size: 1.6rem; margin: 10px 0; color: #b0fffc; text-shadow: 0 0 15px #00ffff;">Hacking</p>
-
-<p style="font-size: 1.4rem; margin: 8px 0; color: #ffd700; text-shadow: 0 0 15px #ffff00;">Gaming 🔥</p>
-
-<p style="font-size: 1.3rem; margin: 8px 0; color: #ff80ff; text-shadow: 0 0 15px #ff00ff;">Learning to Code • Breaking Systems Ethically</p>
-
-<a href="https://www.instagram.com/yi_0_cl__7" target="_blank" style="display:inline-block; padding:16px 35px; margin:15px; background:rgba(255,255,255,0.07); border:2px solid rgba(0,255,255,0.6); border-radius:50px; color:white; text-decoration:none; font-weight:600; backdrop-filter:blur(15px); box-shadow:0 0 30px rgba(0,255,255,0.5);">📸 Instagram</a>
-
-<a href="https://t.me/+_m7FzGE5VDZkOTJl" target="_blank" style="display:inline-block; padding:16px 35px; margin:15px; background:rgba(255,255,255,0.07); border:2px solid rgba(255,0,255,0.6); border-radius:50px; color:white; text-decoration:none; font-weight:600; backdrop-filter:blur(15px); box-shadow:0 0 30px rgba(255,0,255,0.5);">📱 Telegram</a>
-
-<style>
-@keyframes rgbShift { 0% {filter: hue-rotate(0deg);} 100% {filter: hue-rotate(360deg);} }
-</style>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="380" viewBox="0 0 800 380" style="background:#0a001f;">
+  <defs>
+    <style>
+      .neon { font-family: system-ui; font-size: 92px; font-weight: 900; fill: #fff; filter: drop-shadow(0 0 8px #fff) drop-shadow(0 0 20px #0ff) drop-shadow(0 0 35px #0ff); animation: neon-glow 2s linear infinite alternate; }
+      .neon2 { font-size: 38px; fill: #ff00ff; animation: neon-glow2 3s linear infinite alternate; }
+      @keyframes neon-glow { from { filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 15px #0ff) drop-shadow(0 0 30px #f0f); } to { filter: drop-shadow(0 0 15px #0ff) drop-shadow(0 0 35px #0ff) drop-shadow(0 0 60px #f0f); } }
+      @keyframes neon-glow2 { from { filter: drop-shadow(0 0 5px #f0f); } to { filter: drop-shadow(0 0 20px #f0f); } }
+    </style>
+  </defs>
+  
+  <rect width="800" height="380" fill="#0a001f" rx="30"/>
+  <text x="400" y="140" text-anchor="middle" class="neon">QRGameR</text>
+  <text x="400" y="200" text-anchor="middle" class="neon2" style="font-size:42px;">Hacking</text>
+  <text x="400" y="245" text-anchor="middle" fill="#ffdd00" style="font-size:34px; filter: drop-shadow(0 0 12px #ff0);">Gaming 🔥</text>
+  <text x="400" y="280" text-anchor="middle" fill="#ff80ff" style="font-size:29px; filter: drop-shadow(0 0 10px #f0f);">Learning to Code • Breaking Systems Ethically</text>
+  
+  <a href="https://www.instagram.com/yi_0_cl__7" target="_blank">
+    <rect x="160" y="320" width="210" height="48" rx="25" fill="rgba(0,255,255,0.1)" stroke="#00ffff" stroke-width="3"/>
+    <text x="265" y="350" text-anchor="middle" fill="#fff" font-size="19" font-weight="600">📸 Instagram</text>
+  </a>
+  
+  <a href="https://t.me/+_m7FzGE5VDZkOTJl" target="_blank">
+    <rect x="430" y="320" width="210" height="48" rx="25" fill="rgba(255,0,255,0.1)" stroke="#ff00ff" stroke-width="3"/>
+    <text x="535" y="350" text-anchor="middle" fill="#fff" font-size="19" font-weight="600">📱 Telegram</text>
+  </a>
+</svg>
