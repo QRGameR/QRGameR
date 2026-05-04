@@ -9,4 +9,5 @@
 ---
 
 ### Connect with me:
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yi_0_cl_7)
+
+[![ ](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.instagram.com/yi_0_cl__7)
