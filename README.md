@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Gaming is my escape 🎮 🔥<br>
+  (Gaming) is my escape 🎮 🔥<br>
   Learning to code • Breaking systems ethically 🛡️ 🧑🏻‍💻
 </p>
 
