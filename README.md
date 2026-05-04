@@ -1,12 +1,12 @@
-<h1 align="center">🔥 QRGameR</h1>
+<h1 align="center"> 👾 QRGameR</h1>
 
 <p align="center">
   <strong>Hacking</strong> • <strong>Gaming</strong> • <strong>Coding</strong>
 </p>
 
 <p align="center">
-  Gaming is my escape 🔥<br>
-  Learning to code • Breaking systems ethically 🛡️
+  Gaming is my escape 🎮 🔥<br>
+  Learning to code • Breaking systems ethically 🛡️ 🧑🏻‍💻
 </p>
 
 <p align="center">
