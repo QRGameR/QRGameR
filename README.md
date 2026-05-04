@@ -10,4 +10,8 @@
 
 ### Connect with me:
 
-[![ ](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.instagram.com/yi_0_cl__7)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yi_0_cl__7)
+
+**Scan QR Code to follow:**
+
+![](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.instagram.com/yi_0_cl__7)
